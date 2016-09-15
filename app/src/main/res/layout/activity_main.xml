@@ -48,4 +48,31 @@
             android:text="Y"
             />
     </LinearLayout>
+
+    <LinearLayout
+        style="@style/layout_style"
+        >
+        <TextView
+            style="@style/value_style"
+            android:id="@+id/Latitude_view"
+            />
+        <TextView
+            style="@style/Lable_style"
+            android:text="LA"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/layout_style"
+        >
+        <TextView
+            style="@style/value_style"
+            android:id="@+id/Longitude_view"
+            />
+        <TextView
+            style="@style/Lable_style"
+            android:text="LO"
+
+            />
+    </LinearLayout>
 </LinearLayout>

@@ -3,6 +3,7 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="Default_text_Size">48sp</dimen>
-    <dimen name="accel_value_width">300dp</dimen>
+    <dimen name="location_text_size">24sp</dimen>
+    <dimen name="accel_value_width">500dp</dimen>
     <dimen name="Default_padding">20dp</dimen>
 </resources>
